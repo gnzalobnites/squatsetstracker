@@ -426,6 +426,6 @@ window.onload = function () {
     }, 60000);
 };
 
-// Exportar funciones para uso global (si es necesario)
+// Exportar funciones para uso global
 window.registrarSerie = registrarSerie;
 window.borrarDatos = borrarDatos;
