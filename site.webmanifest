@@ -1,0 +1,41 @@
+{
+  "name": "Squat Sets Tracker",
+  "short_name": "SquatTracker",
+  "description": "Registra tus series de sentadillas y controla tu descanso",
+  "start_url": "/squatsetstracker/",
+  "scope": "/squatsetstracker/",
+  "display": "standalone",
+  "background_color": "#4CAF50",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "/squatsetstracker/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/squatsetstracker/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/squatsetstracker/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/squatsetstracker/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/squatsetstracker/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "categories": ["health", "fitness", "productivity"]
+}
